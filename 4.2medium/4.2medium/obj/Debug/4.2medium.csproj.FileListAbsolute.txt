@@ -1,0 +1,7 @@
+D:\fileki\4.2medium\4.2medium\bin\Debug\4.2medium.exe.config
+D:\fileki\4.2medium\4.2medium\bin\Debug\4.2medium.exe
+D:\fileki\4.2medium\4.2medium\bin\Debug\4.2medium.pdb
+D:\fileki\4.2medium\4.2medium\obj\Debug\4.2medium.csproj.AssemblyReference.cache
+D:\fileki\4.2medium\4.2medium\obj\Debug\4.2medium.csproj.CoreCompileInputs.cache
+D:\fileki\4.2medium\4.2medium\obj\Debug\4.2medium.exe
+D:\fileki\4.2medium\4.2medium\obj\Debug\4.2medium.pdb

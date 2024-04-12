@@ -1,0 +1,7 @@
+D:\fileki\7.1 base\7.1 base\obj\Debug\7.1 base.csproj.AssemblyReference.cache
+D:\fileki\7.1 base\7.1 base\obj\Debug\7.1 base.csproj.CoreCompileInputs.cache
+D:\fileki\7.1 base\7.1 base\bin\Debug\7.1 base.exe.config
+D:\fileki\7.1 base\7.1 base\bin\Debug\7.1 base.exe
+D:\fileki\7.1 base\7.1 base\bin\Debug\7.1 base.pdb
+D:\fileki\7.1 base\7.1 base\obj\Debug\7.1 base.exe
+D:\fileki\7.1 base\7.1 base\obj\Debug\7.1 base.pdb
