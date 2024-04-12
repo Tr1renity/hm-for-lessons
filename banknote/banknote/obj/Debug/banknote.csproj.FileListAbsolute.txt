@@ -1,0 +1,10 @@
+D:\fileki\banknote\banknote\bin\Debug\banknote.exe.config
+D:\fileki\banknote\banknote\bin\Debug\banknote.exe
+D:\fileki\banknote\banknote\bin\Debug\banknote.pdb
+D:\fileki\banknote\banknote\obj\Debug\banknote.csproj.AssemblyReference.cache
+D:\fileki\banknote\banknote\obj\Debug\banknote.Form1.resources
+D:\fileki\banknote\banknote\obj\Debug\banknote.Properties.Resources.resources
+D:\fileki\banknote\banknote\obj\Debug\banknote.csproj.GenerateResource.cache
+D:\fileki\banknote\banknote\obj\Debug\banknote.csproj.CoreCompileInputs.cache
+D:\fileki\banknote\banknote\obj\Debug\banknote.exe
+D:\fileki\banknote\banknote\obj\Debug\banknote.pdb
